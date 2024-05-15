@@ -1,0 +1,4 @@
+This is master1.. and i cover the lessons as like this..
+	- First we make a simple Folder in side User/ mine is 'sana' i don't know yours
+	- Then we make this folder branch master by initializing repository with command called 'git init'
+	- Then we creat a files init
